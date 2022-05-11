@@ -25,11 +25,11 @@ Constantemente estoy desarrollando proyectos en Robótica y Mecatrónica en para
 
 ### Mis Redes:
 
-[<img align="left" alt="Website" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/globe-solid.svg" />][website]
-[<img align="left" alt="LinkedIn" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/linkedin-brands.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/facebook-square-brands.svg" />][facebook]
-[<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/instagram-brands.svg" />][instagram]
-[<img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/github-square-brands.svg" />][github]
+[<img align="center" alt="Website" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/globe-solid.svg" />][website]
+[<img align="center" alt="LinkedIn" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/linkedin-brands.svg" />][linkedin]
+[<img align="center" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/facebook-square-brands.svg" />][facebook]
+[<img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/instagram-brands.svg" />][instagram]
+[<img align="center" alt="Github" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/github-square-brands.svg" />][github]
 
 
 [website]: https://www.walthercuro.com/
