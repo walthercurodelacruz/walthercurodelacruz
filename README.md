@@ -23,8 +23,6 @@ Constantemente estoy desarrollando proyectos en Robótica y Mecatrónica en para
 
 <br>
 
-### Mis Redes:
-
 [<img align="right" alt="Website" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/globe-solid.svg" />][website]
 [<img align="right" alt="LinkedIn" width="30px" fill="white" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/linkedin-brands.svg" />][linkedin]
 [<img align="right" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/facebook-square-brands.svg" />][facebook]
