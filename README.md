@@ -7,7 +7,7 @@
 <br>
 
 ## ¡Hola! Soy Walther Curo De La Cruz
-## Profesional de Sistemas, Docente en SENATI, Electrónico industrial, Consultor en Ciberseguridad, Linux Senior, Investigador, Mecatrónico, Owner Scrum, Jefe de Sistemas en Genia Brand, Melómano, Guitarrista, Ajedrecista, entre otros.
+## Profesional de Sistemas | Docente en SENATI | Electrónico industrial | Consultor en Ciberseguridad | Linux Senior | Investigador | Mecatrónico | Owner Scrum | Melómano | Guitarrista | Ajedrecista ...
 
 Disfruto compartir mi experiencia y conocimientos, labor que me ha llevado a ser docente en SENATI, una rol que desarrollo con mucha vocación, entregando todo mi expertise a disposición de los estudiantes.
 
