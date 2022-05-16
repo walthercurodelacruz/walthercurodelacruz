@@ -1,8 +1,6 @@
 
 <div align="center">
-    <a href="https://walthercuro.com">
         <img src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" alt="portfolio" width="100%">
-    </a>
 </div>
 <br>
 
