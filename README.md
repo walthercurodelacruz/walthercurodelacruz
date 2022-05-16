@@ -17,7 +17,7 @@ Constantemente estoy desarrollando proyectos en Robótica y Mecatrónica en para
 <br/>
 
 <div align="center">
-    <a href="https://walthercuro.com">
+    <a href="#">
         <img src="https://i2.wp.com/www.walthercuro.com/wp-content/uploads/2020/06/galeria_sobre_mi_4-1-1024x564.png?strip=info&w=1272" alt="portfolio" width="100%">
     </a>
 </div>
