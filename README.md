@@ -29,7 +29,7 @@ Constantemente estoy desarrollando proyectos en Robótica y Mecatrónica en para
 [<img align="right" alt="Github" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/github-square-brands.svg" />][github]
 
 
-[website]: https://www.walthercuro.com/
+[website]: #
 [linkedin]: https://www.linkedin.com/in/walthercuro/
 [facebook]: https://www.facebook.com/walthercuro
 [instagram]: https://www.instagram.com/walthercuro/
