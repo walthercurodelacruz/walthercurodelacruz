@@ -2,6 +2,7 @@
 <div align="center">
         <img src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" alt="portfolio" width="100%">
 </div>
+[<img align="center" alt="Website" width="100%" fill="white" src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" />]
 <br>
 
 ## ¡Hola! Soy Walther Curo De La Cruz
