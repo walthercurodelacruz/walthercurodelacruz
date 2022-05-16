@@ -2,7 +2,8 @@
 <div align="center">
         <img src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" alt="portfolio" width="100%">
 </div>
-[<img align="center" alt="Website" width="100%" fill="white" src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" />]
+[<img align="center" alt="Website" width="100%" fill="white" src="https://walthercuro.com/wp-content/uploads/2020/06/paris1.jpg" />][website]
+[website]: #
 <br>
 
 ## ¡Hola! Soy Walther Curo De La Cruz
@@ -29,7 +30,7 @@ Constantemente estoy desarrollando proyectos en Robótica y Mecatrónica en para
 [<img align="right" alt="Github" width="30px" src="https://raw.githubusercontent.com/walthercurodelacruz/walthercurodelacruz/65d1e108aa71d062e847d18f8d561417f352465a/iconos/github-square-brands.svg" />][github]
 
 
-[website]: #
+[website]: https://www.walthercuro.com/
 [linkedin]: https://www.linkedin.com/in/walthercuro/
 [facebook]: https://www.facebook.com/walthercuro
 [instagram]: https://www.instagram.com/walthercuro/
